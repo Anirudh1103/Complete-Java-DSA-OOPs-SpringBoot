@@ -8,9 +8,9 @@ The aim of this repository is to provide a comprehensive understanding of Java p
 
 ### Java Basics
 - Basics of Java Programming
-- Introduction to Java
-- Variables, Data Types
-- Operators
+  - Introduction to Java
+  - Variables, Data Types
+  - Operators
 - Conditionals, Loops & Switch Statements
   - If, Else, Else-If, and Switch Statements
   - For, While, Do-While Loops

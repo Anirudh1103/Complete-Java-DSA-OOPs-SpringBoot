@@ -18,7 +18,7 @@ The aim of this repository is to provide a comprehensive understanding of Java p
   - Creating Functions
   - Method Overloading
   - Recursion in Functions
-- Arrays and ArrayLists
+### Arrays and ArrayLists
   - Introduction to Arrays & ArrayLists
   - Declaring and Initializing Arrays and ArrayLists
 

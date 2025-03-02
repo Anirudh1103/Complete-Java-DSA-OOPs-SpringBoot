@@ -32,6 +32,8 @@ The aim of this repository is to provide a comprehensive understanding of Java p
 - Selection Sort
 - Insertion Sort
 - Cycle Sort
+### Other Algorithms
+-Kadanes Algorithm (Maximum subarray)
 
 ### Strings and StringBuilder
 - Manipulating Strings

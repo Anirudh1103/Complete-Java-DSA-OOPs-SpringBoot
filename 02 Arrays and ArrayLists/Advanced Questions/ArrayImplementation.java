@@ -31,4 +31,26 @@ public class ArrayImplementation {
         arr[i] = arr[j];
         arr[j] = temp;
     }
+    public int getMaxIndex(int[] arr, int start, int end)
+    {
+        int maxIndex = 0,maxElement = arr[start];
+        for(int i=start+1; i<=end; i++)
+            if(arr[i] > maxElement)
+            {
+                maxElement = arr[i];
+                maxIndex = i;
+            }
+        return maxIndex;
+    }
+    public int getMinIndex(int[] arr, int start, int end)
+    {
+        int minIndex = 0,minElement = arr[start];
+        for(int i=start+1; i<=end; i++)
+            if(arr[i] < minElement)
+            {
+                minElement = arr[i];
+                minIndex = i;
+            }
+        return minIndex;
+    }
 }

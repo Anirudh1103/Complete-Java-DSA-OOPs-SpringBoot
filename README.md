@@ -33,8 +33,8 @@ The aim of this repository is to provide a comprehensive understanding of Java p
 - Insertion Sort
 - Cycle Sort
 ### Other Algorithms
--Kadanes Algorithm (Maximum subarray)
--Boyer Moores Algorithm (Majoriy element in an array)
+- Kadanes Algorithm (Maximum subarray)
+- Boyer Moores Algorithm (Majoriy element in an array)
 ### Strings and StringBuilder
 - Manipulating Strings
 - String Methods

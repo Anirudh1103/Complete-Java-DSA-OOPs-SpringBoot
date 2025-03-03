@@ -34,7 +34,7 @@ The aim of this repository is to provide a comprehensive understanding of Java p
 - Cycle Sort
 ### Other Algorithms
 -Kadanes Algorithm (Maximum subarray)
-
+-Boyer Moores Algorithm (Majoriy element in an array)
 ### Strings and StringBuilder
 - Manipulating Strings
 - String Methods

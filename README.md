@@ -140,6 +140,21 @@ This repository will soon include:
 - Problem-solving strategies for common interview questions
 - Solutions and code walkthrough for each problem
 
+  ## Maven
+  - Maven Notes
+
+  ## Hibernate
+  - CRUD Operations using Hibernate
+  - Mapping relationship theory
+  - OneToOne mapping
+  - OneToMany mapping
+  - ManyToOne mapping
+  - ManyToOne mapping
+  - Hibernate Chaching
+  - Introduction to HQL
+  - Get vs Load
+
+
 ## 🚀 How to Use This Repository
 
 ### Clone the Repository:

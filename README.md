@@ -162,7 +162,7 @@ This repository will soon include:
 ### Clone the Repository:
 
 ```bash
-git clone https://github.com/Anirudh1103/Complete-Java-DSA-SpringBoot.git
+git clone https://github.com/Anirudh1103/Complete-Java-DSA-OOPs-SpringBoot.git
 ```
 
 ## Explore the Code:

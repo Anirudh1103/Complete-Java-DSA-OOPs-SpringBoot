@@ -133,17 +133,10 @@ The aim of this repository is to provide a comprehensive understanding of Java p
 - FileInputStream, FileOutputStream
 - BufferedReader, BufferedWriter
 
-## 📑 Upcoming: DSA Interview Problems
-This repository will soon include:
-
-- DSA Interview Problems
-- Problem-solving strategies for common interview questions
-- Solutions and code walkthrough for each problem
-
-  ## Maven
+### Maven
   - Maven Notes
 
-  ## Hibernate
+### Hibernate
   - CRUD Operations using Hibernate
   - Mapping relationship theory
   - OneToOne mapping
@@ -153,6 +146,15 @@ This repository will soon include:
   - Hibernate Chaching
   - Introduction to HQL
   - Get vs Load
+
+
+## 📑 Upcoming: DSA Interview Problems
+This repository will soon include:
+
+- DSA Interview Problems
+- Problem-solving strategies for common interview questions
+- Solutions and code walkthrough for each problem
+
 
 
 ## 🚀 How to Use This Repository

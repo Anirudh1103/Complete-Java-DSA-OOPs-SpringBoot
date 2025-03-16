@@ -1,26 +1,22 @@
-# Java and Data Structures & Algorithms (DSA) 2025
+# Java, Data Structures & Algorithms (DSA), Spring, Spring Boot, and Hibernate 2025
 
-Welcome to the Java and DSA 2025 repository! This repository contains a collection of Java code from Beginner to Advanced levels, along with explanations of various Data Structures and Algorithms (DSA) concepts.
+Welcome to the **Java, DSA, Spring, Spring Boot, and Hibernate 2025** repository! This repository contains a collection of **Java code from Beginner to Advanced levels**, along with **explanations of various Data Structures and Algorithms (DSA) concepts, Spring framework, Spring Boot development, Hibernate ORM, and Maven**.
 
-The aim of this repository is to provide a comprehensive understanding of Java programming and common DSA problems, along with solutions and their explanations. Whether you're a beginner or preparing for interviews, you'll find code examples, explanations, and problem-solving strategies for various DSA topics.
+The aim of this repository is to provide a **comprehensive understanding** of **Java programming, common DSA problems, Spring framework, Spring Boot development, Hibernate ORM, and Maven**, along with solutions and their explanations. Whether you're a beginner or preparing for interviews, you'll find **code examples, explanations, and problem-solving strategies** for various topics.
+
+---
 
 ## 📚 Topics Covered
 
 ### Java Basics
-- Basics of Java Programming
-  - Introduction to Java
-  - Variables, Data Types
-  - Operators
+- Introduction to Java
+- Variables, Data Types, Operators
 - Conditionals, Loops & Switch Statements
-  - If, Else, Else-If, and Switch Statements
-  - For, While, Do-While Loops
-- Functions & Methods
-  - Creating Functions
-  - Method Overloading
-  - Recursion in Functions
+- Functions & Methods (Method Overloading, Recursion)
+
 ### Arrays and ArrayLists
-  - Introduction to Arrays & ArrayLists
-  - Declaring and Initializing Arrays and ArrayLists
+- Introduction to Arrays & ArrayLists
+- Declaring and Initializing Arrays and ArrayLists
 
 ### Search Algorithms
 - Linear Search
@@ -32,16 +28,17 @@ The aim of this repository is to provide a comprehensive understanding of Java p
 - Selection Sort
 - Insertion Sort
 - Cycle Sort
+
 ### Other Algorithms
-- Kadanes Algorithm (Maximum subarray)
-- Boyer Moores Algorithm (Majoriy element in an array)
+- Kadane’s Algorithm (Maximum subarray)
+- Boyer-Moore Algorithm (Majority element in an array)
+
 ### Strings and StringBuilder
 - Manipulating Strings
 - String Methods
 - StringBuilder class and its operations
 
 ### Recursion
-- Introduction to Recursion
 - Understanding Recursion and Recursion Trees
 - Recursion Examples
 
@@ -51,125 +48,102 @@ The aim of this repository is to provide a comprehensive understanding of Java p
 - Space Complexity Analysis
 
 ### Bitwise Operators and Number Systems
-- Bitwise Operations (AND, OR, XOR, NOT operations)
-- Number Systems (Conversion between Decimal, Binary, Hexadecimal, and Octal)
+- Bitwise Operations (AND, OR, XOR, NOT)
+- Number Systems (Decimal, Binary, Hexadecimal, Octal)
 
 ### Maths for DSA
-- Mathematical Concepts
 - Prime Numbers, Sieve of Eratosthenes
 - GCD, LCM, Modular Arithmetic
 
 ### Backtracking
-- Introduction to Backtracking
 - Solving problems using Backtracking
 - Examples: N-Queens, Subset Sum, etc.
 
+---
+
 ## 💻 Object-Oriented Programming (OOP)
-- Introduction to OOP Concepts
 - Classes, Objects, Constructors, and Keywords
 - Instance vs. Static variables and methods
 - Principles of OOP
-  - Inheritance: Subclasses and Parent classes
-  - Polymorphism: Method Overriding, Dynamic Binding
-  - Encapsulation: Getters and Setters
-  - Abstraction: Abstract classes and Interfaces
+    - Inheritance, Polymorphism, Encapsulation, Abstraction
 - Additional OOP Concepts
-  - Packages and their usage
-  - Static classes, Singleton Classes
-  - Exception Handling and Custom Exceptions
-  - Lambda Expressions and Functional Interfaces
-  - Object Cloning and Generics
-  - Collections Framework
-  - Core Data Structures: Lists, Sets, and Maps
-  - Vector class
-  - Enums in Java
+    - Packages, Exception Handling, Lambda Expressions
+    - Object Cloning, Generics, Collections Framework
+
+---
 
 ## 📦 Data Structures
 
 ### Stacks
-- Introduction to Stack
-- Basic operations (Push, Pop, Peek)
-- Stack implementation using arrays and linked lists
+- Stack Implementation using Arrays & Linked Lists
 
 ### Queues
-- Introduction to Queue
-- Basic operations (Enqueue, Dequeue)
-- Circular Queue implementation
-- Priority Queue implementation
+- Circular Queue, Priority Queue
 
 ### Linked Lists
-- Singly Linked List (Insert, Delete, Search operations)
-- Doubly Linked List (Insert, Delete, Search operations)
+- Singly Linked List
+- Doubly Linked List 
 - Circular Singly Linked List
 - Circular Doubly Linked List
 
 ### Hash Tables
-- Introduction to Hashing
-- Hash Functions
-- Collision resolution techniques (Chaining, Open Addressing)
+- Hash Functions & Collision Resolution Techniques
 
 ### Trees
-- Binary Trees
-- Tree Traversal (Inorder, Preorder, Postorder)
-- Height of Binary Tree, Diameter
-- AVL Trees (Self-balancing binary search tree, Rotations)
-- Segment Trees (Range Queries and Updates)
+- Binary Trees, Traversals (Inorder, Preorder, Postorder)
+- AVL Trees, Segment Trees
 
 ### Heap
-- Introduction to Heap Data Structure
-- Min-Heap and Max-Heap
-- Heap Operations (Insert, Delete)
-- Heap Sort
+- Min-Heap, Max-Heap, Heap Sort
+
+---
 
 ## 📂 Advanced Topics
 
+### Maven
+- Maven Project Setup
+- Dependency Management
+- Maven Lifecycle and Plugins
+
+### Spring Framework
+- Introduction to Spring
+- Spring Core, Spring MVC
+- Dependency Injection, Bean Management
+- Spring AOP and Transactions
+
+### Spring Boot
+- Introduction to Spring Boot
+- Creating REST APIs with Spring Boot
+- Spring Boot Annotations
+- Spring Boot with PostgreSQL
+
+### Hibernate
+- CRUD Operations using Hibernate
+- Mapping Relationships (OneToOne, OneToMany, ManyToOne, ManyToMany)
+- Hibernate Caching
+- Introduction to HQL
+- Get vs Load
+
 ### StringBuffer
-- StringBuffer Class
 - Difference between String and StringBuffer
-- Methods and Performance considerations
+- Performance Considerations
 
 ### File Handling
 - Reading and Writing Files in Java
-- FileInputStream, FileOutputStream
-- BufferedReader, BufferedWriter
+- FileInputStream, FileOutputStream, BufferedReader, BufferedWriter
 
-### Maven
-  - Maven Notes
-
-### Hibernate
-  - CRUD Operations using Hibernate
-  - Mapping relationship theory
-  - OneToOne mapping
-  - OneToMany mapping
-  - ManyToOne mapping
-  - ManyToOne mapping
-  - Hibernate Chaching
-  - Introduction to HQL
-  - Get vs Load
-
+---
 
 ## 📑 Upcoming: DSA Interview Problems
 This repository will soon include:
+- DSA Interview Questions & Solutions
+- Problem-Solving Strategies
+- Code Walkthroughs
 
-- DSA Interview Problems
-- Problem-solving strategies for common interview questions
-- Solutions and code walkthrough for each problem
-
-
+---
 
 ## 🚀 How to Use This Repository
 
 ### Clone the Repository:
-
 ```bash
-git clone https://github.com/Anirudh1103/Complete-Java-DSA-SpringBoot.git
-```
-
-## Explore the Code:
-Each folder or file contains code examples and explanations for different Java and DSA topics. Simply navigate to the topic of your interest.
-
-## Practice:
-Solve problems related to the topic you're learning. Many code files include comments and explanations of the concepts.
-
-## 📧 Contact
-If you have any questions or need further assistance, feel free to reach out to me at cmanirudh03@gmail.com.
+git clone https://github.com/Anirudh1103/Complete-Java-DSA-OOPs-SpringBoot.git

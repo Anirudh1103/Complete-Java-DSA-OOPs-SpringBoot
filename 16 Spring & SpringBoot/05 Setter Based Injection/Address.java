@@ -1,0 +1,28 @@
+package com.anirudh;
+
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.PropertySource;
+import org.springframework.stereotype.Component;
+
+@Component
+@PropertySource("classpath:application.properties")
+public class Address {
+    private String city;
+    private String state;
+
+    public String getCity() {
+        return city;
+    }
+    @Value("${employee.address.city}")
+    public void setCity(String city) {
+        this.city = city;
+    }
+
+    public String getState() {
+        return state;
+    }
+    @Value("${employee.address.state}")
+    public void setState(String state) {
+        this.state = state;
+    }
+}
